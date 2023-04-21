@@ -25,7 +25,7 @@ local Window = Rayfield:CreateWindow({
       Key = {"misto.wtf","cjurdj","gunter"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
-if(gameid == 6872274481, 6872265039) then
+if(gameid == 6872265039) then
     Rayfield:Notify({
         Title = "game fosaujnd",
         Content = "bard wars",
